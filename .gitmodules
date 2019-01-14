@@ -1,0 +1,3 @@
+[submodule "django-blog-app"]
+	path = django-blog-app
+	url = https://github.com/yusufertas/django-blog-app
